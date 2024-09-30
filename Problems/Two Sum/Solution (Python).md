@@ -1,0 +1,3 @@
+## Thought Process 
+- I need to create a list taht i can lookup quickly and in this case a set.
+- check to see if the remainder is in the set, if so then ... of not then ... 
